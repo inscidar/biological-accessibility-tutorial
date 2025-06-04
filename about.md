@@ -5,7 +5,6 @@ nav_order: 1
 permalink: /about/
 ---
 
-# About
 This tutorial is presented by the [HIDIVE Lab](hidivelab.org) at Harvard Medical School. 
 
 ## Presenters
