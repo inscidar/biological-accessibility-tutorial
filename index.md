@@ -1,5 +1,6 @@
 ---
 layout: home
+hide_title: true
 ---
 
 # Assessing and Enhancing Digital Accessibility of Biological Data and Visualizations
