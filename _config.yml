@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Biomedical Accessibility Workshop
+title: Biological Accessibility Workshop
 description: >- # this means to ignore newlines until "baseurl:"
-  Biomedical Visualization Accessibility Workshop for ISMB 2025.
+  Tutorial on Assessing and Enhancing Digital Accessibility of Biological Data and Visualizations for ISMB 2025.
   Given by HIDIVE Lab at Harvard medical School.
-github_username:  thomcsmits
 
 header_pages:
   - schedule.md
