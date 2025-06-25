@@ -1,3 +1,7 @@
+.DS_store
+.venv/
+tmp/
+
 _site
 .sass-cache
 .jekyll-cache
