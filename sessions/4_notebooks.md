@@ -8,8 +8,8 @@ This session focusses on accessibility of computational notebooks. Computational
 
 ## Notebooks used in this session
 This session uses the following notebooks: 
-1. Notebook with guidelines [Google Colab](https://colab.research.google.com/drive/1n-kETLh2XHIgsxCG4tu2gdxVEjO7rjOy) and [download](../assets/notebooks/1-notebook-overview.ipynb)
-2. Exercise on squidpy tutorial [Google Colab](https://colab.research.google.com/drive/1v9XcolBFJk_qiC32d9UALIkpV9vCr6e4) and [download](../assets/notebooks/2-squidpy-slideseqv2.ipynb)
+1. Notebook with guidelines [Google Colab](https://colab.research.google.com/drive/1n-kETLh2XHIgsxCG4tu2gdxVEjO7rjOy), [download](../assets/notebooks/1-notebook-overview.ipynb) and [HTML page](../assets/notebooks/1-notebook-overview.html)
+2. Exercise on squidpy tutorial [Google Colab](https://colab.research.google.com/drive/1v9XcolBFJk_qiC32d9UALIkpV9vCr6e4), [download](../assets/notebooks/2-squidpy-slideseqv2.ipynb) and [HTML page](../assets/notebooks/2-squidpy-slideseqv2.html)
 
 
 ## Current state of accessibility in notebooks
