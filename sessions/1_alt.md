@@ -4,4 +4,4 @@ title: "Hands-on session 1: Writing alt-text for biomedical data visualization f
 permalink: /alt/
 ---
 
-
+This page is under construction.
