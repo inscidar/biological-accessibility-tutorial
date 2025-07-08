@@ -87,7 +87,7 @@ Our evaluation results showed that the majority of data portals (74.8% of 3,112)
 
 <figure>
     <img src="../assets/imgs/inscidar-result-1.png" alt="A bar chart showing the proportion of pages on the y-axis in terms of severity of issues on the x-axis. 98.3% of websites have moderate to severe accessibility issues."/>
-    <figcaption><b>Caption.</b> An accessibility result shows that more than 70% of 3,112 data portals we analyzed have severe accessibility issues.</figcaption>
+    <figcaption><b>Caption.</b> An accessibility evaluation result shows that more than 70% of 3,112 data portals we analyzed have severe accessibility issues.</figcaption>
 </figure>
 
 ## What Can We Do To Make It Better?
