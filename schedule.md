@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /schedule/
 ---
 
-This is the tentative schedule of the workshop:
+This is the schedule of the workshop:
 
 1. **14:00–15:00** — [Background](../background)  
    _Introduction to accessibility and biomedical data visualization_
@@ -18,7 +18,7 @@ This is the tentative schedule of the workshop:
 4. **15:45–16:15** — [Hands-on 2: Keyboard Accessibility](../keyboard)  
    _Testing the keyboard accessibility of biomedical data resources_
 
-5. **16:15–16:45** — [Hands-on 3: Designing Accessible Visuals](../visualization)  
+5. **16:15–16:45** — [Hands-on 3: Designing Accessible Biological Data Visualizations](../visualization)  
    _Designing accessible biomedical data visualizations_
 
 6. **16:45–17:00** — Coffee Break
