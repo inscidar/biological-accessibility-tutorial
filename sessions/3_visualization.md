@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Hands-on session 3: Designing accessible biomedical data visualization"
+title: "Hands-on session 3: Designing accessible biological data visualization"
 permalink: /visualization/
 ---
+
+This hands-on session focuses on designing accessible biological data visualization.
 
 ## Overview
 
@@ -10,7 +12,7 @@ permalink: /visualization/
 * These guidelines are based on Chartability ([Elavsky et al.](https://www.frank.computer/chartability/)).
 * (Activity) You will evaluate two biological data visualizations using the guidelines.
 
-## [Chartability](https://chartability.fizz.studio/)	
+### Chartability ([website](https://chartability.fizz.studio/))	
 * A set of heuristics for ensuring the accessibility of data visualizations and interfaces
 * Helpful for both accessibility experts and novices
 * We mainly use “critical” heuristics
@@ -22,7 +24,7 @@ permalink: /visualization/
 * No title, summary, or caption
 * Data density is inappropriate
 
-## Color
+### Color
 * Must have a contrast ratio of at least 4.5:1 ([Contrast Checker](https://webaim.org/resources/contrastchecker/))
 * Use colorblindness-friendly palette (e.g., [okabe-ito](https://thenode.biologists.com/data-visualization-with-flying-colors/research/))
 * Human cannot easily differentiate more than 10 colors
@@ -31,7 +33,7 @@ permalink: /visualization/
     * Different shapes of mark
     * Bar charts with different textures
 
-## Textual Descriptions
+### Textual Descriptions
 * Title, summary, or caption
 * Axis labels
 * Legend labels
@@ -56,23 +58,23 @@ There are many different chart types that you can choose (e.g., 66 chart types i
 
 ![Chart types are listed in grid, each represented with an icon in a circle.](../assets/imgs/chart-types.png)
 
-## We Love Circos, But Is It Most Effective?
+### We Love Circos, But Is It Most Effective?
 ![A screenshot of a new article including three Circos plots, which shows line connections between different regions of human or other species' chromosomes.](../assets/imgs/circos.jpg)
 
-## Circular vs. Linear Layouts
+### Circular vs. Linear Layouts
 This examples shows a limitation of circular layouts when perceiving the difference of bars that are positioned in distant.
 
 ![A circular visualization showing bars where two bars that are distant are highlighted in red for comparison.](../assets/imgs/circular-layout.jpg)
 
 ![A linear visualization showing the same data in the circular visualization, where two bars that are distant are highlighted in red for comparison.](../assets/imgs/linear-layout.jpg)
 
-## Sequence Logos
+### Sequence Logos
 
 ![A sequence logos plot showing four letters stacked on top of each other along a x-axis.](../assets/imgs/sequence-logos.jpg)
 
 The use of inaccessible colors and distorting the height of letters in Sequence Logos is not accessible and effective visual encoding for human perception.
 
-## Alternative Sequence Logos
+### Alternative Sequence Logos
 * Maguire et al. 2014
 ![An alternative sequence logos showing bars instead of letters.](../assets/imgs/alt-sequence-logos-1.jpg)
 
