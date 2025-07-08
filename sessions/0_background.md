@@ -72,7 +72,7 @@ We all encounter situations in our lives where we become disabled.
 
 ![Schetch showing different disabilities that are permanent, temporary or situational](../assets/imgs/areas.png)
 
-## Accessibility is Good for Comp. Bio.
+## Accessibility is Good for Computational Biology
 
 There are several examples where accessibility help our research more impactful.
 
@@ -81,7 +81,7 @@ There are several examples where accessibility help our research more impactful.
 2. Accessibility helps making your research reproducible
     * "[R]eproducibility [of Jupyter Notebooks for biomedicine] could likely be improved considerably if the code—and dependencies in particular—were better documented." ([Samuel and Mietchen, 2024](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267))
 
-## How is the Accessibility State in Comp. Bio.?
+## How is the Accessibility State in Computational Biology?
 
 Our evaluation results showed that the majority of data portals (74.8% of 3,112) have severe accessibility issues ([inscidar.org/](https://inscidar.org/)).
 
