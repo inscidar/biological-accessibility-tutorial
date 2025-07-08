@@ -68,7 +68,7 @@ The WCAG guidelines are structured based on four important categories.
 
 ### Accessibility is Good for Everyone
 
-We all encounter a situation where we are become disabled termporarily.
+We all encounter situations in our lives where we become disabled.
 
 ![Schetch showing different disabilities that are permanent, temporary or situational](../assets/imgs/areas.png)
 
