@@ -4,6 +4,8 @@ title: Open problems and innovations
 permalink: /openproblems/
 ---
 
+Here, we list a few open problems and our solutions in the space of accessibility of biological data. 
+ 
 ## Accessibility of Genomic Visualization
 
 ![A gallery of genomics data visualization drawn using Gosling, including linear and circular visualizations, matrix, lollipop plots, ideograms, and gene tracks.](../assets/imgs/gosling.jpg)
