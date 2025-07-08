@@ -15,7 +15,7 @@ Here, we list a few open problems and our solutions in the space of accessibilit
     * Many visualizations at once (8.1 tracks on average)
     * User interactions (e.g., zoom and pan)
 
-## AltGosling ([Demo](https://gosling-lang.github.io/altgosling/), [Paper](https://academic.oup.com/bioinformatics/article/40/12/btae670/7900296?login=false))
+## AltGosling ([Demo](https://gosling-lang.github.io/altgosling/), [Paper](https://academic.oup.com/bioinformatics/article/40/12/btae670/7900296))
 
 Automatic generation of text descriptions for accessible genomics data visualization
 
