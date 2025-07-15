@@ -16,4 +16,4 @@ This tutorial is designed to help participants understand the importance of digi
 4. Learn open problems and innovations in accessibility.
 
 ## Schedule and Materials
-Please refer to the [schedule](/schedule) for the planned sessions and materials.
+Please refer to the [schedule]({{ site.baseurl }}/schedule/) for the planned sessions and materials.
