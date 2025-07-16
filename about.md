@@ -7,7 +7,7 @@ permalink: /about/
 
 This tutorial is presented by the [HIDIVE Lab](hidivelab.org) at Harvard Medical School. 
 
-## Presenters
+## Organizers
 - Sehi L’Yi, PhD
     - Postdoctoral Research Fellow, Harvard Medical School
     - Sehi has received an NIH K99/R00 award from NHGRI to work on enhancing the accessibility of biomedical data resources. His recent work [1] is the first comprehensive accessibility evaluation of biological data portals and journal websites.
